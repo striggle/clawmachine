@@ -27,7 +27,7 @@ function getSize() {
     } else if (snum == 2) {
         var size = "Big";
     } else if (snum == 3) {
-        var size = "Huge";
+        var size = "Giant";
     } else {
         var size = "sorry";
     } 
